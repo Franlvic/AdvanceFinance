@@ -126,12 +126,7 @@ table tbody tr:hover{
     opacity: 1;
 }
 
-footer{
-    text-align: center;
-    padding: 4rem 0 2rem;
-    color: var(--dark-blue);
-    opacity: 0.6;
-}
+
 
 td.description{
     color: var(--dark-blue);
